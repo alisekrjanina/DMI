@@ -1,0 +1,35 @@
+    1  VirtualBox --startvm XP
+    2  pwd
+    3  mkdir
+    4  cd
+    5  pwd
+    6  echo
+    7  ls-a
+    8  ls- a
+    9  ls
+   10  pwd
+   11  ls -a
+   12  ls
+   13  cd Documents/
+   14  ls
+   15  ls -la
+   16  cd ..
+   17  pwd
+   18  ls -l
+   19  mkdir darbi
+   20  ls -l
+   21  cd darbi
+   22  histori
+   23  history
+   24  history > hystory.txt
+   25  ls -l
+   26  cat history.txt
+   27  cat hystory.txt
+   28  git init
+   29  git add .
+   30  git cohfig --global user.email mysoul2007@inbox.lv
+   31  git config --global user.email mysoul2007@inbox.lv
+   32  git commit -m "20170914_09_40"
+   33  git remote add origin https://github.com/alisekrjanina/DMI.git
+   34  git push origin master
+   35  history > history.txt
