@@ -1,0 +1,24 @@
+    1  VirtualBox --startvm XP
+    2  pwd
+    3  mkdir
+    4  cd
+    5  pwd
+    6  echo
+    7  ls-a
+    8  ls- a
+    9  ls
+   10  pwd
+   11  ls -a
+   12  ls
+   13  cd Documents/
+   14  ls
+   15  ls -la
+   16  cd ..
+   17  pwd
+   18  ls -l
+   19  mkdir darbi
+   20  ls -l
+   21  cd darbi
+   22  histori
+   23  history
+   24  history > hystory.txt
